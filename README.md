@@ -1,2 +1,2 @@
 # CPP-Programming
-Code-Snippets and Programs HackerRank 
+Code-Snippets and Programs [HackerRank]
